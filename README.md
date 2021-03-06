@@ -2,8 +2,9 @@
 
 ## Download support files first
 
-/media/inksci/file/deepolicy/gym-env/gym_platform
-/media/inksci/file/deepolicy/gym-env/gym_goal
+https://github.com/cycraig/gym-platform
+
+https://github.com/cycraig/gym-goal
 
 ## Your work directory should look as this
 ```
